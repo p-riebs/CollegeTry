@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">College Try</string>
+    <string name="title_activity_add_class">Add Class</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_add_assign">Add Assignment</string>
+    <string name="add_class">Add Class</string>
+    <string name="save_class">Save Class</string>
+    <string name="save_assign">Save Assignment</string>
+
+</resources>

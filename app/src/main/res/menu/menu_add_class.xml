@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.parker.collegetry2.AddClassActivity">
+
+    <item
+        android:id="@+id/delete_class"
+        android:icon="@drawable/ic_remove_circle_outline_black_48dp"
+        android:title="Remove Class"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/add_assignment"
+        android:icon="@drawable/ic_add_box_black_48dp"
+        android:title="Add Assignment"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/save_class"
+        android:icon="@drawable/ic_check_black_48dp"
+        android:title="Add Class"
+        app:showAsAction="ifRoom"></item>
+
+</menu>
